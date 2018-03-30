@@ -1,5 +1,5 @@
 """
-Regular expresions:
+Regular expresions guide:
 
 ^  Matches the beginning of a line
 $  Matches the end of the line
